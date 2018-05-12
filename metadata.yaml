@@ -1,0 +1,35 @@
+_repo: Selections-From-The-Kur-an_44515
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Lane-Poole, Stanley
+    alias: Poole, Stanley Lane
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '25154'
+    url: http://www.gutenberg.org/2009/agents/25154
+covers:
+- cover_type: archival
+  image_path: 44515-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Lane, Edward William
+    alias: Lane, E. W. (Edward William)
+    birthdate: 1801
+    deathdate: 1876
+    gutenberg_agent_id: '36870'
+    url: http://www.gutenberg.org/2009/agents/36870
+description: ''
+gutenberg_issued: '2013-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Qur''an'
+- !lcc 'BP'
+title: Selections from the Kur-an
+url: http://www.gutenberg.org/ebooks/44515
